@@ -2,8 +2,8 @@
 
 ##  Project Overview
 **CareerRoute** is a digital mentorship platform designed for the **MENA region**, connecting students, graduates, and professionals with verified mentors for career guidance.  
-The platform includes **AI-based mentor matching**, **session booking**, **Zoom integration**, **secure payments (Stripe & Paymob)**, and a **bilingual (Arabic–English)** interface.
-
+The platform includes **AI-based mentor matching**, **session booking**, **Zoom integration**, **secure payments (Stripe & Paymob)*.
+- Project Prototype using Figma: https://line-swipe-52729503.figma.site/
 ---
 
 ## 👩‍💼 Role: Business Analyst
